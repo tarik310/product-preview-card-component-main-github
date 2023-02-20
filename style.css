@@ -26,7 +26,7 @@ body{
     background-color: var(--White);
     display: flex;
     border-radius: 10px;
-    margin: 165px 20px;
+    margin: 0 20px;
 }
 #product-image{
     width: 50%;
